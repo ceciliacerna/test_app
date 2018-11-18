@@ -23,4 +23,4 @@ Things you may want to cover:
 
 * pusi
 
-@ hello am mofificat ceva
+@ hello am modificat ceva
